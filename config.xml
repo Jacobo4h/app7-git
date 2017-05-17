@@ -2,17 +2,17 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap ="http://phonegap.com/ns/1.0"
-  id ="com.phonegap.example6"
+  id ="com.phonegap.example7"
   version ="1.0.0">
   
-  <name> app6 Batalla de puebla </name>
+  <name> app7 Deslizar hacia la izquierda y a la derecha </name>
   
   <description>
-  Aplicacion que muestra la batalla de puebla
+  Aplicacion que realizara el swipe o deslizamiento en el dispositivo
   </description>
   
   <author href="http://build.phonegap.com"  email="infernium159@gmail.com">
-   Datos del autor
+   Luis Jacobo Roslaes Velazco
   </author>
   
   <!-- Personaliza la aplicacion y plataforma -->
